@@ -1,0 +1,7 @@
+install.packages("tidyverse")
+install.packages("ISLR")
+install.packages("ggdendro")
+install.packages("gridExtra")
+install.packages("robustbase")
+install.packages("data.table")
+install.packages("ggplot2")
